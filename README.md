@@ -1,6 +1,4 @@
-### 🪐 Olá! Eu sou o Kauã!
-
-  Informações e curiosidades sobre mim:
+## 🪐 Olá! Eu sou o Kauã!
 
 - 🐱‍💻 Atualmente estudando HTML, CSS & JavaScript
 - 🐱‍🏍 Contate-me via email: kauagamap@gmail.com
@@ -9,14 +7,17 @@
 
 <!--
 ![kauagamap's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauagamap&&show_icons=true&theme=onedark&count_private=true)
+[![kauagamap's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauagamap&show_icons=true&theme=onedark)](https://github.com/kauagamap/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauagamap&layout=compact&show_icons=true&theme=onedark)](https://github.com/kauagamap/github-readme-stats)
 -->
 
-[![kauagamap's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauagamap&show_icons=true&theme=onedark)](https://github.com/kauagamap/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauagamap&layout=compact&show_icons=true&theme=onedark)](https://github.com/kauagamap/github-readme-stats)
-
-
-
+## 📊 Estatísticas:
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauagamap&show_icons=true&theme=onedark&locale=en&layout=compact" alt="kauagamap" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kauagamap&show_icons=true&theme=onedark&locale=en" alt="kauagamap" /></p>
+ 
+ </div>
+ 
+## 👨🏻‍💻 Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -37,7 +38,12 @@
 Trecho de código que adicionamos no arquivo Readme.md:
 -->
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
-
+  
+  
+ <!--
+ Número de visitantes
+-->
+ <img align="right" width="70" height="22px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=kauagamap.kauagamap"/>
 
 </div>
 
