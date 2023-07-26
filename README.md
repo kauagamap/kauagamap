@@ -36,8 +36,9 @@
   
 <!--
 Trecho de código que adicionamos no arquivo Readme.md:
--->
 ![Snake animation](https://github.com/kauagamap/kauagamap/blob/output/github-contribution-grid-snake.svg)
+
+-->
   
   
  <!--
