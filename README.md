@@ -1,9 +1,9 @@
 ## 🪐 Olá! Eu sou o Kauã!
 
-- 🐱‍💻 Atualmente estudando HTML, CSS & JavaScript
-- 🐱‍🏍 Contate-me via email: kauagamap@gmail.com
-- 🐱‍🚀 Pronouns: ele/dele
-- 🐱‍🐉 Random fact: Estou sempre buscando melhorar.
+- 💻 Atualmente estudando HTML, CSS & JavaScript
+- 📩 Contate-me via email: kauagamap@gmail.com
+- 🚹 Pronouns: ele/dele
+- ➡️ Random fact: Estou sempre buscando melhorar.
 
 <!--
 ![kauagamap's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauagamap&&show_icons=true&theme=onedark&count_private=true)
