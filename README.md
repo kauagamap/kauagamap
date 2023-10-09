@@ -2,7 +2,6 @@
 
 - 💻 Atualmente estudando HTML, CSS & JavaScript
 - 📩 Contate-me via email: kauagamap@gmail.com
-- 🚹 Pronouns: ele/dele
 - ➡️ Random fact: Estou sempre buscando melhorar.
 
 <!--
